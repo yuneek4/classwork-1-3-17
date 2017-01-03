@@ -3,7 +3,7 @@
 Fahrenheit= input('put in the degree fahrenheit')
 F= float(Fahrenheit)
 
-Celcius= F-32* 1.8
+Celcius=(F-32)* 1.8
 print('The temperture in celcius', Celcius)
 '''
 # Calculator 2
